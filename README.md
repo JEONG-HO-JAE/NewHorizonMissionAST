@@ -9,4 +9,4 @@ In the drives, there are two videos about the game I made.<br/>
 You can check the repository of the other game in the next link. (https://github.com/JEONG-HO-JAE/Small-mission3)<br/> 
 
 ## Videos
-https://drive.google.com/file/d/1a5j-mt3nr6u9ad4hszJLrWxabs80bu8T/view?usp=share_link
+https://drive.google.com/drive/folders/1KUid6SrgQ_9xzGVAVM5_eS3itAhju6Y1?usp=sharing
